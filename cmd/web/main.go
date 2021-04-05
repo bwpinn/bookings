@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/bwpinn/bookings/pkg/config"
-	"github.com/bwpinn/bookings/pkg/handlers"
-	"github.com/bwpinn/bookings/pkg/render"
 	"fmt"
 	"github.com/alexedwards/scs/v2"
+	"github.com/tsawler/bookings-app/pkg/config"
+	"github.com/tsawler/bookings-app/pkg/handlers"
+	"github.com/tsawler/bookings-app/pkg/render"
 	"log"
 	"net/http"
 	"time"

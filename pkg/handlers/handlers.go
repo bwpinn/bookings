@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/bwpinn/bookings/pkg/config"
-	"github.com/bwpinn/bookings/pkg/models"
-	"github.com/bwpinn/bookings/pkg/render"
+	"github.com/tsawler/bookings-app/pkg/config"
+	"github.com/tsawler/bookings-app/pkg/models"
+	"github.com/tsawler/bookings-app/pkg/render"
 	"net/http"
 )
 
